@@ -3,7 +3,7 @@
 Schedly is a **FastAPI-based application** designed to revolutionize how users manage their schedules. By integrating **AI-powered Groq capabilities**, advanced **Natural Language Processing (NLP)** tools, and the **iCalendar library**, Schedly provides an intuitive and efficient way to handle email management, event scheduling, and sentiment analysis.
 
 <p align="center">
-  <img src="https://github.com/ranzeet013/FlirtyHuh/blob/main/image/1000029006.png](https://github.com/ranzeet013/schedly/blob/main/icon/1000029020.png" alt="Schedly Logo" width="300">
+  <img src="https://github.com/ranzeet013/schedly/blob/main/icon/1000029020.png" alt="Schedly Logo" width="300">
 </p>
 
 ## Key Functionalities
